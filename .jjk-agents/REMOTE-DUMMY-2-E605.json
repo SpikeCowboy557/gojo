@@ -1,1 +1,1 @@
-{"v":1,"agent_id":"REMOTE-DUMMY-2-E605","hostname":"REMOTE-DUMMY-2","stage":"pending","sleep_secs":9,"last_seen_unix":1795768558,"command":"whoami","command_id":"cmd-1795768290","result":""}
+{"v":1,"agent_id":"REMOTE-DUMMY-2-E605","hostname":"REMOTE-DUMMY-2","stage":"pending","sleep_secs":9,"last_seen_unix":1795768571,"command":"whoami","command_id":"cmd-1795768290","result":""}
